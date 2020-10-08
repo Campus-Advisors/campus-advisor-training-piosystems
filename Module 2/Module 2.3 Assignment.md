@@ -1,4 +1,3 @@
-Onuoha Chinwendu
 
 # Module 2.3 Assignment
 
